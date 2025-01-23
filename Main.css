@@ -44,3 +44,16 @@ h1{
 
 }
 
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+/* failed attempt in centering the button using class*/
+.btn{
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
